@@ -57,6 +57,7 @@ Although the initial attempts of applying the 3 models yield different costs, th
 |Neural Network|30.5800|
 
 # References
+- David Harrison and Daniel L. Rubinfeld. (1978). [Hedonic Housing Prices and the Demand for Clean Air](https://www.law.berkeley.edu/files/Hedonic.PDF)
 - Xavier Bourret Sicotte. (2018). [Lasso regression: implementation of coordinate descent](https://xavierbourretsicotte.github.io/lasso_implementation.html)
 - D@KG. (2022). [Coordinate Descent for LASSO & Normal Regression](https://www.kaggle.com/code/ddatad/coordinate-descent-for-lasso-normal-regression)
 - Lari Giba. [Lasso Regression Explained, Step by Step](https://machinelearningcompass.com/machine_learning_models/lasso_regression/)
